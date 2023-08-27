@@ -13,5 +13,5 @@ A completely working live-inventory managing application (frontend + backend) us
 - Users can delete a node.
 
 ## Design
-- **Low Level Design:** [Read here](https://github.com/mohitpalsingh/liveinventory/blob/main/design.md)
+- **Low Level Design:** [Read here](https://github.com/mohitpalsingh/liveInventory/blob/main/design.md)
 - **Hight Level Design:** The application is build using monolithic architure, hence the entire code is contianed in this one application.
